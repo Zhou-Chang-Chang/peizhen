@@ -1,0 +1,9 @@
+{
+  "appId": "com.yourcompany.paizhen",
+  "appName": "陪诊通",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
